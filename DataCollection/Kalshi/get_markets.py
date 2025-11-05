@@ -3,7 +3,7 @@ import os
 from datetime import datetime, timedelta
 from kalshi_python import Configuration, KalshiClient
 
-API_KEY = "db9b2895-508f-43f8-8503-6911ae5b6c67"  # Replace with your actual API key
+API_KEY = os.getenv("KALSHI_API_KEY")  # Replace with your actual API key
 PEM_FILE = "kalshi.pem"  # Path to your PEM file
 OUTPUT_DIR = "data"  # Directory to store JSON files
 
