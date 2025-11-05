@@ -1,0 +1,9 @@
+{
+  "collection_date": "2025-11-05T15:31:37.855885Z",
+  "description": "Sportsbook odds 5 minutes before NFL game start",
+  "source": "The Odds API",
+  "total_games_processed": 261,
+  "successful": 0,
+  "failed": 261,
+  "sportsbook_odds": []
+}

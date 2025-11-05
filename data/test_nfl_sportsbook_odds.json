@@ -1,0 +1,1129 @@
+{
+  "collection_date": "2025-11-05T15:45:30.783439+00:00",
+  "description": "TEST: Sportsbook odds 5 minutes before NFL game start (first 3 games)",
+  "source": "The Odds API",
+  "total_games_processed": 3,
+  "successful": 3,
+  "failed": 0,
+  "sportsbook_odds": [
+    {
+      "game_id": "c2fd8a23091a954fb21ff6d3537db826",
+      "home_team": "Washington Commanders",
+      "away_team": "Seattle Seahawks",
+      "commence_time": "2025-11-03T01:20:00Z",
+      "game_start": "2025-11-03T01:20:00+00:00",
+      "collection_time": "2025-11-03T01:15:00+00:00",
+      "collection_time_actual": "2025-11-05T15:45:28.488581Z",
+      "bookmaker_odds": {
+        "DraftKings": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -148,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 124,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -120,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": 100,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -105,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 47.5
+            }
+          }
+        },
+        "BetUS": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -150,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 129,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -120,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": 100,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 47.5
+            }
+          }
+        },
+        "Caesars": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -150,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 125,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -120,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": -102,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -112,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -108,
+              "point": 47.5
+            }
+          }
+        },
+        "MyBookie.ag": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -159,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 130,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -105,
+              "point": -3.0
+            },
+            "Washington Commanders": {
+              "price": -115,
+              "point": 3.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -115,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -105,
+              "point": 47.5
+            }
+          }
+        },
+        "FanDuel": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -142,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 120,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -115,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": -105,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 47.5
+            }
+          }
+        },
+        "BetRivers": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -152,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 118,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -107,
+              "point": -3.0
+            },
+            "Washington Commanders": {
+              "price": -120,
+              "point": 3.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -113,
+              "point": 48.0
+            },
+            "Under": {
+              "price": -113,
+              "point": 48.0
+            }
+          }
+        },
+        "LowVig.ag": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -145,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 125,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -117,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": 106,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -107,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -107,
+              "point": 47.5
+            }
+          }
+        },
+        "BetOnline.ag": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -148,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 128,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -120,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": 100,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 47.5
+            }
+          }
+        },
+        "Fanatics": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -145,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 120,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -105,
+              "point": -3.0
+            },
+            "Washington Commanders": {
+              "price": -115,
+              "point": 3.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 47.5
+            }
+          }
+        },
+        "BetMGM": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -150,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 125,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -120,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": 100,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -105,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 47.5
+            }
+          }
+        },
+        "Bovada": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -145,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 125,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -125,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": 105,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 47.5
+            }
+          }
+        }
+      },
+      "total_bookmakers": 11,
+      "markets_collected": [
+        "totals",
+        "spreads",
+        "h2h"
+      ],
+      "kalshi_ticker": "KXNFLGAME-25NOV02SEAWAS-WAS",
+      "kalshi_price": 43,
+      "kalshi_yes_bid": 42,
+      "kalshi_yes_ask": 43
+    },
+    {
+      "game_id": "c2fd8a23091a954fb21ff6d3537db826",
+      "home_team": "Washington Commanders",
+      "away_team": "Seattle Seahawks",
+      "commence_time": "2025-11-03T01:20:00Z",
+      "game_start": "2025-11-03T01:20:00+00:00",
+      "collection_time": "2025-11-03T01:15:00+00:00",
+      "collection_time_actual": "2025-11-05T15:45:29.272243Z",
+      "bookmaker_odds": {
+        "DraftKings": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -148,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 124,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -120,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": 100,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -105,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 47.5
+            }
+          }
+        },
+        "BetUS": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -150,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 129,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -120,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": 100,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 47.5
+            }
+          }
+        },
+        "Caesars": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -150,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 125,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -120,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": -102,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -112,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -108,
+              "point": 47.5
+            }
+          }
+        },
+        "MyBookie.ag": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -159,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 130,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -105,
+              "point": -3.0
+            },
+            "Washington Commanders": {
+              "price": -115,
+              "point": 3.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -115,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -105,
+              "point": 47.5
+            }
+          }
+        },
+        "FanDuel": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -142,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 120,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -115,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": -105,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 47.5
+            }
+          }
+        },
+        "BetRivers": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -152,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 118,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -107,
+              "point": -3.0
+            },
+            "Washington Commanders": {
+              "price": -120,
+              "point": 3.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -113,
+              "point": 48.0
+            },
+            "Under": {
+              "price": -113,
+              "point": 48.0
+            }
+          }
+        },
+        "LowVig.ag": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -145,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 125,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -117,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": 106,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -107,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -107,
+              "point": 47.5
+            }
+          }
+        },
+        "BetOnline.ag": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -148,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 128,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -120,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": 100,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 47.5
+            }
+          }
+        },
+        "Fanatics": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -145,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 120,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -105,
+              "point": -3.0
+            },
+            "Washington Commanders": {
+              "price": -115,
+              "point": 3.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 47.5
+            }
+          }
+        },
+        "BetMGM": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -150,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 125,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -120,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": 100,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -105,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 47.5
+            }
+          }
+        },
+        "Bovada": {
+          "h2h": {
+            "Seattle Seahawks": {
+              "price": -145,
+              "point": null
+            },
+            "Washington Commanders": {
+              "price": 125,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Seattle Seahawks": {
+              "price": -125,
+              "point": -2.5
+            },
+            "Washington Commanders": {
+              "price": 105,
+              "point": 2.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 47.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 47.5
+            }
+          }
+        }
+      },
+      "total_bookmakers": 11,
+      "markets_collected": [
+        "totals",
+        "spreads",
+        "h2h"
+      ],
+      "kalshi_ticker": "KXNFLGAME-25NOV02SEAWAS-SEA",
+      "kalshi_price": 58,
+      "kalshi_yes_bid": 57,
+      "kalshi_yes_ask": 58
+    },
+    {
+      "game_id": "f3dfb574e0a542375a480534525ee6cf",
+      "home_team": "Dallas Cowboys",
+      "away_team": "Arizona Cardinals",
+      "commence_time": "2025-11-04T01:18:00Z",
+      "game_start": "2025-11-04T01:15:00+00:00",
+      "collection_time": "2025-11-04T01:10:00+00:00",
+      "collection_time_actual": "2025-11-05T15:45:30.480453Z",
+      "bookmaker_odds": {
+        "DraftKings": {
+          "h2h": {
+            "Arizona Cardinals": {
+              "price": 145,
+              "point": null
+            },
+            "Dallas Cowboys": {
+              "price": -175,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Arizona Cardinals": {
+              "price": -115,
+              "point": 3.5
+            },
+            "Dallas Cowboys": {
+              "price": -105,
+              "point": -3.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -115,
+              "point": 53.5
+            },
+            "Under": {
+              "price": -105,
+              "point": 53.5
+            }
+          }
+        },
+        "BetUS": {
+          "h2h": {
+            "Arizona Cardinals": {
+              "price": 159,
+              "point": null
+            },
+            "Dallas Cowboys": {
+              "price": -185,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Arizona Cardinals": {
+              "price": -115,
+              "point": 3.5
+            },
+            "Dallas Cowboys": {
+              "price": -105,
+              "point": -3.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -105,
+              "point": 53.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 53.5
+            }
+          }
+        },
+        "Caesars": {
+          "h2h": {
+            "Arizona Cardinals": {
+              "price": 158,
+              "point": null
+            },
+            "Dallas Cowboys": {
+              "price": -190,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Arizona Cardinals": {
+              "price": -114,
+              "point": 3.5
+            },
+            "Dallas Cowboys": {
+              "price": -107,
+              "point": -3.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 53.5
+            },
+            "Under": {
+              "price": -109,
+              "point": 53.5
+            }
+          }
+        },
+        "FanDuel": {
+          "h2h": {
+            "Arizona Cardinals": {
+              "price": 150,
+              "point": null
+            },
+            "Dallas Cowboys": {
+              "price": -178,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Arizona Cardinals": {
+              "price": -118,
+              "point": 3.5
+            },
+            "Dallas Cowboys": {
+              "price": -104,
+              "point": -3.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -114,
+              "point": 53.5
+            },
+            "Under": {
+              "price": -106,
+              "point": 53.5
+            }
+          }
+        },
+        "MyBookie.ag": {
+          "h2h": {
+            "Arizona Cardinals": {
+              "price": 150,
+              "point": null
+            },
+            "Dallas Cowboys": {
+              "price": -187,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Arizona Cardinals": {
+              "price": -115,
+              "point": 3.5
+            },
+            "Dallas Cowboys": {
+              "price": -105,
+              "point": -3.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 54.0
+            },
+            "Under": {
+              "price": -110,
+              "point": 54.0
+            }
+          }
+        },
+        "LowVig.ag": {
+          "h2h": {
+            "Arizona Cardinals": {
+              "price": 157,
+              "point": null
+            },
+            "Dallas Cowboys": {
+              "price": -180,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Arizona Cardinals": {
+              "price": -117,
+              "point": 3.5
+            },
+            "Dallas Cowboys": {
+              "price": 106,
+              "point": -3.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -107,
+              "point": 52.5
+            },
+            "Under": {
+              "price": -107,
+              "point": 52.5
+            }
+          }
+        },
+        "BetOnline.ag": {
+          "h2h": {
+            "Arizona Cardinals": {
+              "price": 157,
+              "point": null
+            },
+            "Dallas Cowboys": {
+              "price": -180,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Arizona Cardinals": {
+              "price": -114,
+              "point": 3.5
+            },
+            "Dallas Cowboys": {
+              "price": -106,
+              "point": -3.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 52.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 52.5
+            }
+          }
+        },
+        "BetRivers": {
+          "h2h": {
+            "Arizona Cardinals": {
+              "price": 148,
+              "point": null
+            },
+            "Dallas Cowboys": {
+              "price": -190,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Arizona Cardinals": {
+              "price": -118,
+              "point": 3.5
+            },
+            "Dallas Cowboys": {
+              "price": -108,
+              "point": -3.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 54.0
+            },
+            "Under": {
+              "price": -115,
+              "point": 54.0
+            }
+          }
+        },
+        "BetMGM": {
+          "h2h": {
+            "Arizona Cardinals": {
+              "price": 154,
+              "point": null
+            },
+            "Dallas Cowboys": {
+              "price": -185,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Arizona Cardinals": {
+              "price": -115,
+              "point": 3.5
+            },
+            "Dallas Cowboys": {
+              "price": -105,
+              "point": -3.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 54.0
+            },
+            "Under": {
+              "price": -110,
+              "point": 54.0
+            }
+          }
+        },
+        "Bovada": {
+          "h2h": {
+            "Arizona Cardinals": {
+              "price": 155,
+              "point": null
+            },
+            "Dallas Cowboys": {
+              "price": -180,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Arizona Cardinals": {
+              "price": 100,
+              "point": 3.0
+            },
+            "Dallas Cowboys": {
+              "price": -120,
+              "point": -3.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 53.0
+            },
+            "Under": {
+              "price": -110,
+              "point": 53.0
+            }
+          }
+        },
+        "Fanatics": {
+          "h2h": {
+            "Arizona Cardinals": {
+              "price": 150,
+              "point": null
+            },
+            "Dallas Cowboys": {
+              "price": -180,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Arizona Cardinals": {
+              "price": -115,
+              "point": 3.5
+            },
+            "Dallas Cowboys": {
+              "price": -105,
+              "point": -3.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 54.0
+            },
+            "Under": {
+              "price": -110,
+              "point": 54.0
+            }
+          }
+        }
+      },
+      "total_bookmakers": 11,
+      "markets_collected": [
+        "totals",
+        "spreads",
+        "h2h"
+      ],
+      "kalshi_ticker": "KXNFLGAME-25NOV03ARIDAL-DAL",
+      "kalshi_price": 64,
+      "kalshi_yes_bid": 63,
+      "kalshi_yes_ask": 64
+    }
+  ]
+}

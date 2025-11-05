@@ -1,0 +1,28 @@
+{
+  "fetch_date": "2025-11-04T08:27:14.757246",
+  "totals": {
+    "series": 5000,
+    "markets": 0
+  },
+  "markets_by_status": {},
+  "markets_by_category": {},
+  "series_by_category": {
+    "Science and Technology": 127,
+    "Elections": 334,
+    "Entertainment": 1154,
+    "Politics": 1591,
+    "Sports": 654,
+    "Companies": 224,
+    "Economics": 191,
+    "World": 125,
+    "Climate and Weather": 102,
+    "Financials": 92,
+    "Crypto": 123,
+    "Social": 71,
+    "Mentions": 82,
+    "": 33,
+    "Health": 69,
+    "Transportation": 26,
+    "Education": 2
+  }
+}

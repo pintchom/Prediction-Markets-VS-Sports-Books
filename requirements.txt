@@ -4,6 +4,8 @@ lazy_imports==1.0.1
 pydantic==2.12.0
 pydantic_core==2.41.1
 python-dateutil==2.9.0.post0
+requests==2.31.0
+schedule==1.2.0
 six==1.17.0
 typing-inspection==0.4.2
 typing_extensions==4.15.0
