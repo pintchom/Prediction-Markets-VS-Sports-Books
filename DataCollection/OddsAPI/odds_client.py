@@ -74,9 +74,67 @@ class OddsAPIClient:
                 'timestamp': datetime.utcnow().isoformat() + 'Z'
             }
     
+    def get_nba_odds(
+        self, 
+        markets: List[str] = None, 
+        regions: List[str] = None,
+        bookmakers: List[str] = None,
+        odds_format: str = "american",
+        date_format: str = "iso"
+    ) -> Dict[str, Any]:
+        """
+        Get current NBA odds from sportsbooks
+        
+        Args:
+            markets: List of markets to include (e.g., ['h2h', 'spreads', 'totals'])
+            regions: List of regions to include (e.g., ['us', 'us2'])
+            bookmakers: Specific bookmakers to include
+            odds_format: 'american' or 'decimal'
+            date_format: 'iso' or 'unix'
+        
+        Returns:
+            Dictionary containing odds data and metadata
+        """
+        if markets is None:
+            markets = ['h2h', 'spreads', 'totals']  # moneyline, spread, over/under
+        if regions is None:
+            regions = ['us']  # US sportsbooks
+            
+        url = f"{self.base_url}/sports/basketball_nba/odds"
+        
+        params = {
+            'apiKey': self.api_key,
+            'markets': ','.join(markets),
+            'regions': ','.join(regions),
+            'oddsFormat': odds_format,
+            'dateFormat': date_format
+        }
+        
+        if bookmakers:
+            params['bookmakers'] = ','.join(bookmakers)
+            
+        try:
+            response = self.session.get(url, params=params)
+            response.raise_for_status()
+            
+            return {
+                'success': True,
+                'data': response.json(),
+                'headers': dict(response.headers),
+                'timestamp': datetime.utcnow().isoformat() + 'Z'
+            }
+            
+        except requests.exceptions.RequestException as e:
+            return {
+                'success': False,
+                'error': str(e),
+                'timestamp': datetime.utcnow().isoformat() + 'Z'
+            }
+    
     def get_historical_odds(
         self,
         date: str,
+        sport: str = 'americanfootball_nfl',
         markets: List[str] = None,
         regions: List[str] = None,
         bookmakers: List[str] = None,
@@ -84,10 +142,11 @@ class OddsAPIClient:
         date_format: str = "iso"
     ) -> Dict[str, Any]:
         """
-        Get historical NFL odds for a specific date
+        Get historical odds for a specific date and sport
         
         Args:
             date: Date in ISO format (e.g., '2024-11-05T20:00:00Z')
+            sport: Sport key (e.g., 'americanfootball_nfl', 'basketball_nba')
             markets: List of markets to include
             regions: List of regions to include
             bookmakers: Specific bookmakers to include
@@ -102,7 +161,7 @@ class OddsAPIClient:
         if regions is None:
             regions = ['us']
             
-        url = f"{self.base_url}/historical/sports/americanfootball_nfl/odds"
+        url = f"{self.base_url}/historical/sports/{sport}/odds"
         
         params = {
             'apiKey': self.api_key,

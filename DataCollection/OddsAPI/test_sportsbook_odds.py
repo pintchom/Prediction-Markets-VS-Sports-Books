@@ -44,6 +44,7 @@ def get_sportsbook_odds_before_game_start(
         # Get historical odds for that specific time
         result = client.get_historical_odds(
             date=historical_date,
+            sport='americanfootball_nfl',
             markets=['h2h', 'spreads', 'totals'],
             regions=['us'],
             odds_format='american'

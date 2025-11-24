@@ -1,0 +1,692 @@
+{
+  "collection_date": "2025-11-24T02:02:42.679016+00:00",
+  "description": "TEST: Sportsbook odds 5 minutes before NBA game start (first 3 games)",
+  "source": "The Odds API",
+  "total_games_processed": 3,
+  "successful": 2,
+  "failed": 1,
+  "sportsbook_odds": [
+    {
+      "game_id": "9221d7f71811f8a52214c26e5991a294",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Charlotte Hornets",
+      "commence_time": "2025-11-23T23:11:00Z",
+      "game_start": "2025-11-23T23:30:00+00:00",
+      "collection_time": "2025-11-23T23:25:00+00:00",
+      "collection_time_actual": "2025-11-24T02:02:40.773381Z",
+      "bookmaker_odds": {
+        "FanDuel": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -265,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 200,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -112,
+              "point": -6.5
+            },
+            "Charlotte Hornets": {
+              "price": -118,
+              "point": 6.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -114,
+              "point": 237.5
+            },
+            "Under": {
+              "price": -114,
+              "point": 237.5
+            }
+          }
+        },
+        "Fanatics": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -300,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 220,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -115,
+              "point": -6.5
+            },
+            "Charlotte Hornets": {
+              "price": -115,
+              "point": 6.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -115,
+              "point": 235.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 235.5
+            }
+          }
+        },
+        "DraftKings": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -260,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 195,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -120,
+              "point": -6.5
+            },
+            "Charlotte Hornets": {
+              "price": -110,
+              "point": 6.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -115,
+              "point": 237.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 237.5
+            }
+          }
+        },
+        "Caesars": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -250,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 195,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -115,
+              "point": -6.5
+            },
+            "Charlotte Hornets": {
+              "price": -115,
+              "point": 6.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -115,
+              "point": 237.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 237.5
+            }
+          }
+        },
+        "BetRivers": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -295,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 205,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -121,
+              "point": -7.0
+            },
+            "Charlotte Hornets": {
+              "price": -121,
+              "point": 7.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -122,
+              "point": 236.5
+            },
+            "Under": {
+              "price": -120,
+              "point": 236.5
+            }
+          }
+        },
+        "LowVig.ag": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -297,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 248,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -105,
+              "point": -8.0
+            },
+            "Charlotte Hornets": {
+              "price": -107,
+              "point": 8.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -109,
+              "point": 228.0
+            },
+            "Under": {
+              "price": -105,
+              "point": 228.0
+            }
+          }
+        },
+        "BetOnline.ag": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -300,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 245,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -109,
+              "point": -8.0
+            },
+            "Charlotte Hornets": {
+              "price": -111,
+              "point": 8.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -112,
+              "point": 228.0
+            },
+            "Under": {
+              "price": -108,
+              "point": 228.0
+            }
+          }
+        },
+        "Bovada": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -250,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 185,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -110,
+              "point": -6.0
+            },
+            "Charlotte Hornets": {
+              "price": -120,
+              "point": 6.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -115,
+              "point": 236.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 236.5
+            }
+          }
+        },
+        "BetMGM": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -250,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 190,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -115,
+              "point": -6.5
+            },
+            "Charlotte Hornets": {
+              "price": -115,
+              "point": 6.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 236.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 236.5
+            }
+          }
+        },
+        "BetUS": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -300,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 250,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -110,
+              "point": -8.0
+            },
+            "Charlotte Hornets": {
+              "price": -110,
+              "point": 8.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 228.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 228.5
+            }
+          }
+        }
+      },
+      "total_bookmakers": 10,
+      "markets_collected": [
+        "spreads",
+        "h2h",
+        "totals"
+      ],
+      "kalshi_ticker": "KXNBAGAME-25NOV23CHAATL-CHA",
+      "kalshi_price": 36,
+      "kalshi_yes_bid": 36,
+      "kalshi_yes_ask": 37
+    },
+    {
+      "game_id": "9221d7f71811f8a52214c26e5991a294",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Charlotte Hornets",
+      "commence_time": "2025-11-23T23:11:00Z",
+      "game_start": "2025-11-23T23:30:00+00:00",
+      "collection_time": "2025-11-23T23:25:00+00:00",
+      "collection_time_actual": "2025-11-24T02:02:41.637802Z",
+      "bookmaker_odds": {
+        "FanDuel": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -265,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 200,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -112,
+              "point": -6.5
+            },
+            "Charlotte Hornets": {
+              "price": -118,
+              "point": 6.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -114,
+              "point": 237.5
+            },
+            "Under": {
+              "price": -114,
+              "point": 237.5
+            }
+          }
+        },
+        "Fanatics": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -300,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 220,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -115,
+              "point": -6.5
+            },
+            "Charlotte Hornets": {
+              "price": -115,
+              "point": 6.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -115,
+              "point": 235.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 235.5
+            }
+          }
+        },
+        "DraftKings": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -260,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 195,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -120,
+              "point": -6.5
+            },
+            "Charlotte Hornets": {
+              "price": -110,
+              "point": 6.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -115,
+              "point": 237.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 237.5
+            }
+          }
+        },
+        "Caesars": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -250,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 195,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -115,
+              "point": -6.5
+            },
+            "Charlotte Hornets": {
+              "price": -115,
+              "point": 6.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -115,
+              "point": 237.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 237.5
+            }
+          }
+        },
+        "BetRivers": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -295,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 205,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -121,
+              "point": -7.0
+            },
+            "Charlotte Hornets": {
+              "price": -121,
+              "point": 7.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -122,
+              "point": 236.5
+            },
+            "Under": {
+              "price": -120,
+              "point": 236.5
+            }
+          }
+        },
+        "LowVig.ag": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -297,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 248,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -105,
+              "point": -8.0
+            },
+            "Charlotte Hornets": {
+              "price": -107,
+              "point": 8.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -109,
+              "point": 228.0
+            },
+            "Under": {
+              "price": -105,
+              "point": 228.0
+            }
+          }
+        },
+        "BetOnline.ag": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -300,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 245,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -109,
+              "point": -8.0
+            },
+            "Charlotte Hornets": {
+              "price": -111,
+              "point": 8.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -112,
+              "point": 228.0
+            },
+            "Under": {
+              "price": -108,
+              "point": 228.0
+            }
+          }
+        },
+        "Bovada": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -250,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 185,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -110,
+              "point": -6.0
+            },
+            "Charlotte Hornets": {
+              "price": -120,
+              "point": 6.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -115,
+              "point": 236.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 236.5
+            }
+          }
+        },
+        "BetMGM": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -250,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 190,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -115,
+              "point": -6.5
+            },
+            "Charlotte Hornets": {
+              "price": -115,
+              "point": 6.5
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 236.5
+            },
+            "Under": {
+              "price": -115,
+              "point": 236.5
+            }
+          }
+        },
+        "BetUS": {
+          "h2h": {
+            "Atlanta Hawks": {
+              "price": -300,
+              "point": null
+            },
+            "Charlotte Hornets": {
+              "price": 250,
+              "point": null
+            }
+          },
+          "spreads": {
+            "Atlanta Hawks": {
+              "price": -110,
+              "point": -8.0
+            },
+            "Charlotte Hornets": {
+              "price": -110,
+              "point": 8.0
+            }
+          },
+          "totals": {
+            "Over": {
+              "price": -110,
+              "point": 228.5
+            },
+            "Under": {
+              "price": -110,
+              "point": 228.5
+            }
+          }
+        }
+      },
+      "total_bookmakers": 10,
+      "markets_collected": [
+        "spreads",
+        "h2h",
+        "totals"
+      ],
+      "kalshi_ticker": "KXNBAGAME-25NOV23CHAATL-ATL",
+      "kalshi_price": 64,
+      "kalshi_yes_bid": 64,
+      "kalshi_yes_ask": 65
+    }
+  ]
+}
