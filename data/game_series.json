@@ -5,5 +5,12 @@
             "title": "Professional Football Game",
             "category": "Sports"
         }
+    ],
+    "nba_series": [
+        {
+            "ticker": "KXNBAGAME",
+            "title": "Professional Basketball Game",
+            "category": "Sports"
+        }
     ]
 }
