@@ -1,0 +1,43 @@
+# NFL
+## Initial clean data from Odds API
+df_long_filtered
+
+## sports book probability table
+probs_by_book_nfl
+
+## sports book brier score and log loss for single event
+eval_nfl
+
+## sports book average brier score and log loss
+bookmaker_eval_nfl
+
+## Kalshi probability table
+kalshi_game_level_nfl
+
+## Kalshi brier score and log loss for single event
+kalshi_eval<-kalshi_metrics$per_game
+
+## Kalshi average Brier & log-loss summarization
+kalshi_summary
+
+# NBA
+## Initial clean data from Odds API
+df_with_scores_clean
+
+## sports book probability table
+probs_by_book_nba
+
+## sports book brier score and log loss for single event
+eval_nba
+
+## sports book average brier score and log loss
+bookmaker_eval_nba
+
+## Kalshi probability table
+kalshi_game_level_nba
+
+## Kalshi brier score and log loss for single event
+kalshi_eval_nba
+
+## Kalshi average Brier & log-loss summarization
+kalshi_summary_nba
