@@ -1,0 +1,322 @@
+"game_id","home_team","away_team","game_date","kalshi_prob_home","kalshi_prob_away","home_score","away_score","home_win"
+"0042b0009547d8a7c9827977546613de","Phoenix Suns","Sacramento Kings",2025-10-22,0.53,0.47,120,116,1
+"00c81b9ad5b845e2a14e7f01e6a28777","Phoenix Suns","Atlanta Hawks",2025-11-16,0.39,0.61,122,124,0
+"00eb7e982d3c341cdc68795c73d901e1","Los Angeles Lakers","Minnesota Timberwolves",2025-10-24,0.4,0.6,128,110,1
+"0150cdf67f18ee09b2207c17bd502b3d","Phoenix Suns","Memphis Grizzlies",2025-10-29,0.56,0.44,113,114,0
+"022efc6b85eb5cf71b2fa0faea2c76a0","Chicago Bulls","Philadelphia 76ers",2025-11-04,0.33,0.67,113,111,1
+"02ea5bff59e1d511ffeefcb8593d74a0","Sacramento Kings","Minnesota Timberwolves",2025-11-09,0.33,0.67,117,144,0
+"03056148fcfe2cce81e7025dae4c3dbe","Toronto Raptors","Memphis Grizzlies",2025-11-02,0.62,0.38,117,104,1
+"0323223bc8d4e97d8d2e6cec15816e58","Dallas Mavericks","Phoenix Suns",2025-11-12,0.6,0.4,114,123,0
+"04e46146b9e692941069c7034c368d60","New York Knicks","Washington Wizards",2025-11-03,0.85,0.15,119,102,1
+"059c428bc060a5272ce5a7b6771a3ceb","Boston Celtics","Memphis Grizzlies",2025-11-12,0.87,0.13,131,95,1
+"06f119cfcc8308a429374d041e864b8a","Oklahoma City Thunder","Denver Nuggets",2025-05-07,0.885,0.115,149,106,1
+"070ca82391365631462414ecb4a0d327","Miami Heat","Charlotte Hornets",2025-10-28,0.53,0.47,144,117,1
+"072f959e31211e7c805451ce92a5f4e5","Indiana Pacers","Oklahoma City Thunder",2025-10-11,0.45,0.55,116,101,1
+"072f959e31211e7c805451ce92a5f4e5","Indiana Pacers","Oklahoma City Thunder",2025-10-23,0.33,0.67,135,141,0
+"078f0883a88c1fb2deaf8a47b59c671f","Charlotte Hornets","Los Angeles Clippers",2025-11-22,0.56,0.44,116,131,0
+"080d0b9da8881cde793f5251b94c2e2b","New York Knicks","Indiana Pacers",2025-05-23,0.58,0.42,109,114,0
+"084b0e20e0e0c30eb2ab6c9b6bcc55f0","Philadelphia 76ers","Toronto Raptors",2025-11-08,0.7,0.3,130,120,1
+"088f5bc93c60e40ff3b46827e155d74a","Memphis Grizzlies","Sacramento Kings",2025-11-20,0.73,0.27,137,96,1
+"08e29200254c376c5f4af4a9b18b9d24","Boston Celtics","Utah Jazz",2025-11-03,0.88,0.12,103,105,0
+"09e34bcf1234210ced1646210034cedb","Washington Wizards","Cleveland Cavaliers",2025-11-07,0.11,0.89,115,148,0
+"0a353943755e93979775f392eb64d80a","Denver Nuggets","Chicago Bulls",2025-11-17,0.88,0.12,127,130,0
+"0b32acf2f68ab3bad325d5b490d774b1","Houston Rockets","Orlando Magic",2025-11-16,0.56,0.44,117,113,1
+"0bba63ebea7fd06ccc1a76376361195c","Dallas Mavericks","New York Knicks",2025-11-19,0.23,0.77,111,113,0
+"0bc467cf6cb245debf4950400bc8512e","Boston Celtics","Orlando Magic",2025-04-20,0.88,0.12,103,86,1
+"0e5d47b1a4c507af55eafadbd01f0e9d","Atlanta Hawks","Detroit Pistons",2025-11-18,0.34,0.66,112,120,0
+"0f7d4c705cff031299459d2240144e76","Los Angeles Clippers","Denver Nuggets",2025-11-12,0.35,0.65,116,130,0
+"0fdd095e3e0689aede516def5ccb891f","New Orleans Pelicans","Atlanta Hawks",2025-11-22,0.31,0.69,98,115,0
+"10d6902a9faa1843f88a61c425f51660","Cleveland Cavaliers","Miami Heat",2025-04-20,0.8,0.2,121,100,1
+"11866bc183bdd5a8a7f11a6686e4007a","Sacramento Kings","Oklahoma City Thunder",2025-11-07,0.15,0.85,101,132,0
+"12aebc1081f4713b9ad2705d5364df58","Orlando Magic","Golden State Warriors",2025-11-18,0.4,0.6,121,113,1
+"12b46f184c1fdead46e57fbcea9406ad","Orlando Magic","Atlanta Hawks",2025-04-15,0.72,0.28,120,95,1
+"12dc44254241ed056efce1e548888c26","Atlanta Hawks","Miami Heat",2025-04-18,0.33,0.67,114,123,0
+"13917a414157bda81dd6b417d440e1a6","Boston Celtics","Philadelphia 76ers",2025-10-22,0.66,0.34,116,117,0
+"1486b350f051e9869429f2985a7ef2d0","Oklahoma City Thunder","Los Angeles Lakers",2025-11-12,0.79,0.21,121,92,1
+"14a3b88a3d45b7afa6622d6f960e0b09","Cleveland Cavaliers","Miami Heat",2025-04-23,0.68,0.32,121,112,1
+"14cf463e0e627a3b36b65ec923f253ea","Indiana Pacers","New York Knicks",2025-05-31,0.65,0.35,125,108,1
+"15bca8e5b08f7b8602a8e3967667c740","New York Knicks","Detroit Pistons",2025-04-21,0.64,0.36,94,100,0
+"1689cf573c6a092366dd268fec29fa17","New York Knicks","Boston Celtics",2025-05-16,0.65,0.35,119,81,1
+"16b697ea8401211dcb40a35f12b52b21","Atlanta Hawks","Oklahoma City Thunder",2025-10-25,0.18,0.82,100,117,0
+"16cb0525e908d238a3407ade6a978c6b","New York Knicks","Boston Celtics",2025-05-12,0.24,0.76,121,113,1
+"1712f1f48109a3c9ef509a77914aaa06","Los Angeles Clippers","Atlanta Hawks",2025-11-10,0.74,0.26,102,105,0
+"17245e545f4c4aa961de57270f16b2c7","Portland Trail Blazers","Denver Nuggets",2025-10-31,0.28,0.72,109,107,1
+"17263f5888c9f26d291bc49258e68852","Memphis Grizzlies","Houston Rockets",2025-11-05,0.21,0.79,109,124,0
+"1814ec22a3248bb5467aa1a2bee18f98","Denver Nuggets","Los Angeles Clippers",2025-04-21,0.54,0.46,102,105,0
+"18a8312266521477423664257e995981","Portland Trail Blazers","Minnesota Timberwolves",2025-10-22,0.36,0.64,114,118,0
+"19aca5a6e1fa8b1aa68505d3f1d75b37","Los Angeles Clippers","Denver Nuggets",2025-04-24,0.565,0.435,117,83,1
+"1abf482ad374aafd4543807af43cb242","Oklahoma City Thunder","New Orleans Pelicans",2025-11-02,0.91,0.09,137,106,1
+"1c9e418efd98eb8040dc783345e4bc24","Cleveland Cavaliers","Houston Rockets",2025-11-19,0.47,0.53,104,114,0
+"1e70cdfd00bfa5e08be3e030eebc8d39","Chicago Bulls","Atlanta Hawks",2025-10-27,0.35,0.65,128,123,1
+"1eb306bc928cde16b480fbf6493b53a6","Milwaukee Bucks","Sacramento Kings",2025-11-01,0.83,0.17,133,135,0
+"1f76df620a1e6d0d2a788a9defbc3b71","Charlotte Hornets","Minnesota Timberwolves",2025-11-01,0.37,0.63,105,122,0
+"2066c605a729491bce972c57e275108e","Oklahoma City Thunder","Minnesota Timberwolves",2025-05-22,0.74,0.26,118,103,1
+"20752d4ddb00e71eb57379806aa7693f","Golden State Warriors","Minnesota Timberwolves",2025-05-12,0.35,0.65,110,117,0
+"20868fae97d3419b114035f8e41f3b9a","Oklahoma City Thunder","Minnesota Timberwolves",2025-05-28,0.84,0.16,124,94,1
+"2115811d6d5915d1d9ab317396776cf7","Orlando Magic","Atlanta Hawks",2025-10-24,0.68,0.32,107,111,0
+"2166a42183ae3ca4c38f7ff9d12e4e9d","Milwaukee Bucks","Golden State Warriors",2025-10-30,0.25,0.75,120,110,1
+"22e737f4ba0084666d3393962b06c3b1","Minnesota Timberwolves","Golden State Warriors",2025-05-08,0.87,0.13,117,93,1
+"24de1e032f1519e144f30fc6f43079b4","Brooklyn Nets","Toronto Raptors",2025-11-11,0.27,0.73,109,119,0
+"26cc3cb8ab41744f98362d3f18a9869d","New Orleans Pelicans","Portland Trail Blazers",2025-11-12,0.2,0.8,117,125,0
+"27a47dd17db5b4e2788c58cb75b827df","Portland Trail Blazers","Chicago Bulls",2025-11-19,0.5,0.5,121,122,0
+"27c8840c8c45f792ac973275c9edfb49","Boston Celtics","Washington Wizards",2025-11-05,0.78,0.22,136,107,1
+"27dd6a6f0a3c64d4bf137c426f93c530","Philadelphia 76ers","Boston Celtics",2025-11-11,0.52,0.48,102,100,1
+"280a8379b89f8ad370276332b30328d6","Houston Rockets","Golden State Warriors",2025-04-23,0.72,0.28,109,94,1
+"29b861ac757bdd61a335f2c275cdc839","New York Knicks","Minnesota Timberwolves",2025-11-05,0.45,0.55,137,114,1
+"2a534db0689c24c8b50c65bd9e0d2c82","Minnesota Timberwolves","Sacramento Kings",2025-11-14,0.89,0.11,124,110,1
+"2c566908fd21c1179a1affda3f24b101","Charlotte Hornets","Brooklyn Nets",2025-10-22,0.64,0.36,136,117,1
+"2cc4aa6d732a30d94489658e4db6496a","New Orleans Pelicans","Golden State Warriors",2025-11-16,0.13,0.87,106,124,0
+"2e21146d8cd6ca6c712c950397066e76","Houston Rockets","Golden State Warriors",2025-04-30,0.88,0.12,131,116,1
+"2ef029bf85c7722eb25b2f40e9bfffba","Memphis Grizzlies","Indiana Pacers",2025-10-25,0.61,0.39,128,103,1
+"301506911df04b3ac148721fae1aceae","Miami Heat","Golden State Warriors",2025-11-19,0.88,0.12,110,96,1
+"30d2f5a8d2c0848e608e6d9904f7242b","Washington Wizards","Orlando Magic",2025-11-01,0.23,0.77,94,125,0
+"314bcd3de3454494ecb012ef351bcb41","Los Angeles Clippers","Portland Trail Blazers",2025-10-26,0.76,0.24,114,107,1
+"32340eec3e6f948859da513d81047c24","Brooklyn Nets","Philadelphia 76ers",2025-11-02,0.34,0.66,105,129,0
+"32d285715ef87d49b04641e1d07538fd","Miami Heat","Cleveland Cavaliers",2025-04-28,0.05,0.95,83,138,0
+"34d6f71a0551df167b69000fb92694bf","Golden State Warriors","Los Angeles Clippers",2025-10-28,0.53,0.47,98,79,1
+"34e829d65b6a0cbb49573338a86772ec","Indiana Pacers","Cleveland Cavaliers",2025-05-09,0.23,0.77,104,126,0
+"34f945e9809f0f47a9ea3af857fd899b","Denver Nuggets","Sacramento Kings",2025-11-03,0.86,0.14,130,124,1
+"365cc68ed4c6432e32493aad00ff96ff","Sacramento Kings","Golden State Warriors",2025-11-05,0.38,0.62,121,116,1
+"3784e9747b97bec1c1aab8f693656f18","Philadelphia 76ers","Boston Celtics",2025-10-31,0.4,0.6,108,109,0
+"3794a894ae3da0a51df7ce06f5696197","Cleveland Cavaliers","Chicago Bulls",2025-11-08,0.79,0.21,128,122,1
+"37d2920127740f016f71516a1abe38b8","Los Angeles Lakers","Miami Heat",2025-11-02,0.74,0.26,130,120,1
+"386b2abe66400fda8e18e80151fb0512","Toronto Raptors","Charlotte Hornets",2025-11-17,0.78,0.22,110,108,1
+"38be9cf3227ca4d2ff10639d21d2db4a","Cleveland Cavaliers","Los Angeles Clippers",2025-11-23,0.62,0.38,120,105,1
+"38c536954f1b21020fbae78711a00d28","Dallas Mavericks","Memphis Grizzlies",2025-11-22,0.54,0.46,96,102,0
+"3a6b0d7961360bd22e31e59ea415ff57","Minnesota Timberwolves","Denver Nuggets",2025-10-27,0.26,0.74,114,127,0
+"3aeb77299e031d5b0b35e26048a29c48","Indiana Pacers","Cleveland Cavaliers",2025-05-11,0.55,0.45,129,109,1
+"3b370cb6a9f1c935bc68cbe2e1866d21","Sacramento Kings","Utah Jazz",2025-10-24,0.65,0.35,105,104,1
+"3bb045e8e56483e4687e2aad7fc77870","Houston Rockets","Brooklyn Nets",2025-10-27,0.93,0.07,137,109,1
+"3bc5054ad4bc0f2c50cd87a3fcb8cd45","Detroit Pistons","New York Knicks",2025-04-24,0.4,0.6,116,118,0
+"3e9ff8cc7c27a9e791ef15809ccd4721","Utah Jazz","Indiana Pacers",2025-11-11,0.39,0.61,152,128,1
+"3f7e2359b4a5532aafa274ff22714d51","Charlotte Hornets","Los Angeles Lakers",2025-11-10,0.22,0.78,111,121,0
+"3fc01d671e3d50fdc6b651512d8b931a","Utah Jazz","Chicago Bulls",2025-11-16,0.42,0.58,150,147,1
+"4363c18037d5a036ba50719163a6fd75","Denver Nuggets","Phoenix Suns",2025-10-25,0.88,0.12,133,111,1
+"460ca5da65548d349cb007bdceb84163","Golden State Warriors","Portland Trail Blazers",2025-11-21,0.71,0.29,123,127,0
+"46118acd6bad6d91e3a202453d0f8f50","Milwaukee Bucks","Detroit Pistons",2025-11-22,0.18,0.82,116,129,0
+"46824344ea7ec8ac8ae11661eb812d50","Oklahoma City Thunder","Indiana Pacers",2025-06-08,0.82,0.18,123,107,1
+"471ffaffeffd40b0387b1a398fb2f8d9","Minnesota Timberwolves","Dallas Mavericks",2025-11-17,0.9,0.1,120,96,1
+"487e7f4cbc287a6a3d1851600ff450ab","Charlotte Hornets","Oklahoma City Thunder",2025-11-15,0.08,0.92,96,109,0
+"489ebe4bfe555790c22904d280a12dfc","Indiana Pacers","New York Knicks",2025-05-27,0.61,0.39,130,121,1
+"4a51c193617f1f42b668152595a3a6f5","Los Angeles Clippers","Phoenix Suns",2025-11-08,0.53,0.47,103,114,0
+"4be505ae223e96b80b5740f1b63d5fb1","Detroit Pistons","Orlando Magic",2025-10-29,0.43,0.57,135,116,1
+"4f07ee458d197bc2ccdcfcd9934ffc03","Dallas Mavericks","Milwaukee Bucks",2025-11-10,0.28,0.72,114,116,0
+"531fd3384c3ec81f9734480d6a0b755a","Oklahoma City Thunder","Golden State Warriors",2025-11-11,0.81,0.19,126,102,1
+"540e1ce6de3ffba9b4d0feacd11eb735","Los Angeles Clippers","Denver Nuggets",2025-05-01,0.71,0.29,111,105,1
+"551a4b401ac8558669eaa7a0a801718b","Minnesota Timberwolves","Golden State Warriors",2025-05-14,0.83,0.17,121,110,1
+"5576790fe7926d304297579d026403b8","Detroit Pistons","Boston Celtics",2025-10-26,0.37,0.63,119,113,1
+"55cfba1e2fab74c5fc7d57c977e0e3b8","Indiana Pacers","New York Knicks",2025-05-25,0.52,0.48,100,106,0
+"563e1ce28fbf2a9fdd4cda9c12861ea6","Memphis Grizzlies","Oklahoma City Thunder",2025-11-09,0.18,0.82,100,114,0
+"5672262c6a3f8d7950dfe370f1146822","Los Angeles Clippers","Phoenix Suns",2025-10-24,0.67,0.33,129,102,1
+"56ee01cdacc4914d19da5cf5f54e28e7","Los Angeles Clippers","Oklahoma City Thunder",2025-11-04,0.4,0.6,107,126,0
+"57675a019ab81bbf046093942697c7e1","Denver Nuggets","Oklahoma City Thunder",2025-05-09,0.32,0.68,113,104,1
+"57ca84685194cc0890033c8b36e66fc5","Houston Rockets","Golden State Warriors",2025-04-20,0.63,0.37,85,95,0
+"57e3377b13023bef975593b02eb5081b","Toronto Raptors","Houston Rockets",2025-10-29,0.26,0.74,121,139,0
+"58c5d4f9449efc54b2a2ceb71ca6878b","Cleveland Cavaliers","Indiana Pacers",2025-11-21,0.88,0.12,120,109,1
+"58e766fa4c1a69247703beea18def6cf","Boston Celtics","Brooklyn Nets",2025-11-21,0.82,0.18,105,113,0
+"599d6d0dfc057f6a643eca118d8a87a4","Miami Heat","Cleveland Cavaliers",2025-11-12,0.7,0.3,116,130,0
+"5a01ca5161a08c4d7865032145759b36","Dallas Mavericks","Oklahoma City Thunder",2025-10-27,0.18,0.82,94,101,0
+"5a935d4f284b3fcf84515f522e9079f9","Orlando Magic","Boston Celtics",2025-04-25,0.23,0.77,95,93,1
+"5c25f7e8df3df0a81bbc8e82c06b3275","Boston Celtics","New York Knicks",2025-05-07,0.88,0.12,90,91,0
+"5c3141a83aab2381b9837f56079156fd","Detroit Pistons","Cleveland Cavaliers",2025-10-14,0.24,0.76,118,100,1
+"5c3141a83aab2381b9837f56079156fd","Detroit Pistons","Cleveland Cavaliers",2025-10-27,0.47,0.53,95,116,0
+"5cd2c4c92f51a4c9b79e8f1e7b6fe4ab","Los Angeles Lakers","Minnesota Timberwolves",2025-04-22,0.8,0.2,94,85,1
+"5d2bab71b12e005da1a9491834c945dc","New Orleans Pelicans","Los Angeles Lakers",2025-11-14,0.12,0.88,104,118,0
+"5d36d3c7974e1c7b367055baace056bb","Cleveland Cavaliers","Milwaukee Bucks",2025-10-26,0.66,0.34,118,113,1
+"5e3b869b9c20aeb27c069111f69bb825","Denver Nuggets","Oklahoma City Thunder",2025-05-11,0.28,0.72,87,92,0
+"5ed30106dccf7db288641b620e248242","Miami Heat","Cleveland Cavaliers",2025-04-26,0.22,0.78,87,124,0
+"600dfc9979b72eeef44b5545ba9fe18f","New York Knicks","Boston Celtics",2025-10-24,0.61,0.39,105,95,1
+"60e92f0ebd0d4d4dd4e206c259b1198c","New York Knicks","Brooklyn Nets",2025-11-09,0.95,0.05,134,98,1
+"60effa739f7ed7668a29e0eff32f376e","Minnesota Timberwolves","Los Angeles Lakers",2025-10-29,0.84,0.16,115,116,0
+"613d151e38c4eba00ae07b8a72960d12","Milwaukee Bucks","Philadelphia 76ers",2025-11-20,0.34,0.66,114,123,0
+"61a914d31cb3515795c38dfb8eea0c6f","Denver Nuggets","New Orleans Pelicans",2025-10-29,0.85,0.15,122,88,1
+"61f18a914904dd9e20703519f00edf24","Milwaukee Bucks","Washington Wizards",2025-10-22,0.91,0.09,133,120,1
+"63016986bd7402f9433def9ec4be4fe1","New York Knicks","Miami Heat",2025-11-14,0.71,0.29,140,132,1
+"63ab8484a1039d9477789c806081e3b0","Washington Wizards","Philadelphia 76ers",2025-10-28,0.32,0.68,134,139,0
+"64727ecb83898fd5fa4ba086945dd594","Golden State Warriors","Houston Rockets",2025-04-26,0.48,0.52,104,93,1
+"64bacd75d6b10d1a28a258e54969b626","Utah Jazz","Portland Trail Blazers",2025-10-29,0.49,0.51,134,136,0
+"67f8d60e11df6ab3af7c3c43c15ad6bb","New York Knicks","Memphis Grizzlies",2025-11-11,0.79,0.21,133,120,1
+"6a4ab9a1ce6d4f90b0dafd6d6461c5eb","Oklahoma City Thunder","Sacramento Kings",2025-11-19,0.94,0.0600000000000001,113,99,1
+"6c21d822a58fb471d674113df3b8af57","Minnesota Timberwolves","Golden State Warriors",2025-05-06,0.58,0.42,88,99,0
+"6cfe378a18675db378f3fcfa4861fa4c","Cleveland Cavaliers","Memphis Grizzlies",2025-11-15,0.73,0.27,108,100,1
+"6f4f9851f7634f0b452c9153373deddf","Toronto Raptors","Milwaukee Bucks",2025-10-24,0.58,0.42,116,122,0
+"6f6b9b2f30e3b0c1289b6df52d1f5b1e","Detroit Pistons","Dallas Mavericks",2025-11-01,0.79,0.21,122,110,1
+"6fb85302d766cc4bfcd431455d308748","Orlando Magic","Portland Trail Blazers",2025-11-10,0.49,0.51,115,112,1
+"700aede8724030d06159df96613b775d","Minnesota Timberwolves","Los Angeles Lakers",2025-04-27,0.55,0.45,116,113,1
+"71660f977b7bf30f2a30794e936a3f61","Utah Jazz","Atlanta Hawks",2025-11-13,0.42,0.58,122,132,0
+"731fa66351071a1e5cd387fd7087aa8f","Toronto Raptors","Washington Wizards",2025-11-21,0.92,0.08,140,110,1
+"757e322d4beb7cad125cdcb50af7e897","Boston Celtics","Cleveland Cavaliers",2025-10-29,0.39,0.61,125,105,1
+"76c06946a763643d09655bdcad0ccd33","Chicago Bulls","Miami Heat",2025-11-21,0.59,0.41,107,143,0
+"77349df7a7d73953f39694692eef6e51","Detroit Pistons","Chicago Bulls",2025-11-12,0.67,0.33,124,113,1
+"77cde06ef453172f95ed97439a2540fd","Toronto Raptors","Milwaukee Bucks",2025-11-04,0.65,0.35,128,100,1
+"77d182acedfaf699262ad3044c42006f","Indiana Pacers","Milwaukee Bucks",2025-04-29,0.52,0.48,119,118,1
+"788fb38defa5d0362ec330415a902b54","Memphis Grizzlies","Dallas Mavericks",2025-04-18,0.84,0.16,120,106,1
+"78aabf080c02d6b74d6d5a15ae2d2a81","Los Angeles Lakers","Dallas Mavericks",2025-10-15,0.46,0.54,94,121,0
+"791675e364eb25c166c6382113c0c17f","Portland Trail Blazers","Oklahoma City Thunder",2025-11-05,0.22,0.78,121,119,1
+"79259d20c4c76b29a9886513796aa4b6","Los Angeles Lakers","Portland Trail Blazers",2025-10-27,0.43,0.57,108,122,0
+"79db13d01456b1f6d86ba8c25c83c765","Cleveland Cavaliers","Toronto Raptors",2025-11-13,0.76,0.24,113,126,0
+"7a51e863b793a95f2c4359790aea2172","Cleveland Cavaliers","Toronto Raptors",2025-10-31,0.6,0.4,101,112,0
+"7a618b29a0b9af8b895940149badce7b","Boston Celtics","Orlando Magic",2025-04-23,0.79,0.21,109,100,1
+"7cb8b0fe1f3893802f09e60f34194847","Minnesota Timberwolves","Utah Jazz",2025-11-07,0.95,0.05,137,97,1
+"7ea345d53aa2064f3f044ec8bbcbd6d6","Milwaukee Bucks","New York Knicks",2025-10-28,0.38,0.62,121,111,1
+"8162993fb172c214bf7e7338079a0e79","Houston Rockets","Denver Nuggets",2025-11-21,0.49,0.51,109,112,0
+"82a6ef30859cca886863981ccbe7deb5","Cleveland Cavaliers","Philadelphia 76ers",2025-11-05,0.89,0.11,132,121,1
+"84fcb7d4f3ea128bf6e2ac2247fa236b","Oklahoma City Thunder","Memphis Grizzlies",2025-04-22,0.96,0.04,118,99,1
+"86515e2c1d74b8a8233244948e07630c","Milwaukee Bucks","Chicago Bulls",2025-11-07,0.57,0.43,126,110,1
+"87073ecdaedc9200c7468b70625a7ea8","New York Knicks","Boston Celtics",2025-05-10,0.23,0.77,93,115,0
+"879f1b0a8b19f5e3d8a204a54045f240","Houston Rockets","Dallas Mavericks",2025-11-03,0.8,0.2,110,102,1
+"884a1d2984a58125b5d143dca0ace0f2","Oklahoma City Thunder","Memphis Grizzlies",2025-04-20,0.91,0.09,131,80,1
+"89733f00ce9f9896e48c1e0e9b45048e","Chicago Bulls","Detroit Pistons",2025-10-22,0.36,0.64,115,111,1
+"897d0135a47621fb920d0e9b7131026e","Golden State Warriors","Indiana Pacers",2025-11-09,0.9,0.1,114,83,1
+"8a3a6ccbc11731675de956d61bd4f95d","Cleveland Cavaliers","Milwaukee Bucks",2025-11-17,0.54,0.46,118,106,1
+"8af134619ff871a0b76992d76de7e224","Milwaukee Bucks","Indiana Pacers",2025-04-25,0.67,0.33,117,101,1
+"8af5977057054cf39d99326e1e0b9d01","Brooklyn Nets","Minnesota Timberwolves",2025-11-03,0.29,0.71,109,125,0
+"8b2cda93b74c6d4fcff41df81381eaa7","Philadelphia 76ers","Charlotte Hornets",2025-10-25,0.79,0.21,125,121,1
+"8b5034a318296da7b71c659bc444df9e","New York Knicks","Orlando Magic",2025-11-12,0.56,0.44,107,124,0
+"8b5bcf5d08d87972e11a5d1a36d46367","Golden State Warriors","Memphis Grizzlies",2025-04-15,0.68,0.32,121,116,1
+"8cf5f0182f14070fbb4decdff17134ed","Memphis Grizzlies","Los Angeles Lakers",2025-10-31,0.51,0.49,112,117,0
+"8d6d8735b8939d6cf23b1a98f7ef8740","Orlando Magic","Boston Celtics",2025-11-07,0.76,0.24,123,110,1
+"8e49e10c4b0ba0109c73ca788ec28971","Boston Celtics","Los Angeles Clippers",2025-11-16,0.82,0.18,121,118,1
+"90a88a365e93cdd921d3c24d79d8a376","Washington Wizards","Brooklyn Nets",2025-11-16,0.64,0.36,106,129,0
+"9221d7f71811f8a52214c26e5991a294","Atlanta Hawks","Charlotte Hornets",2025-11-23,0.64,0.36,113,110,1
+"9257238b369a40521569c6cc2b147d7f","Boston Celtics","New York Knicks",2025-05-14,0.64,0.36,127,102,1
+"930e0687ebe1ad6186e1db0d88fe7f4a","Denver Nuggets","Golden State Warriors",2025-11-07,0.89,0.11,129,104,1
+"934882eaef004213b7cf42357bfbb44f","Memphis Grizzlies","Miami Heat",2025-10-24,0.5,0.5,114,146,0
+"93b396908512d5c442233a73915097d7","Indiana Pacers","Golden State Warriors",2025-11-01,0.2,0.8,114,109,1
+"93dfb7992d1dacd6870906bffb91afc2","Oklahoma City Thunder","Minnesota Timberwolves",2025-05-20,0.65,0.35,114,88,1
+"94f35a6d58c57801c32a564d04e32270","Golden State Warriors","Denver Nuggets",2025-10-23,0.53,0.47,137,131,1
+"95d399e5dd6898e13b30f7aafb0ad214","Phoenix Suns","Minnesota Timberwolves",2025-11-21,0.33,0.67,114,113,1
+"96b78e7dd26755609d08949297bfb101","Indiana Pacers","Brooklyn Nets",2025-11-05,0.67,0.33,103,112,0
+"9741d920f01ab1f8dfa3433b26083a13","Washington Wizards","Dallas Mavericks",2025-11-08,0.43,0.57,105,111,0
+"97c436574586a603abfb5d3d649633a6","Detroit Pistons","New York Knicks",2025-04-27,0.41,0.59,93,94,0
+"97df12d0f134e8f46273fdd584d361c6","Indiana Pacers","Oklahoma City Thunder",2025-06-19,0.38,0.62,108,91,1
+"99eadf1bba6ca10f585edb7d3c4a3e6c","Orlando Magic","New York Knicks",2025-11-22,0.47,0.53,133,121,1
+"9af0bd13c98119058a3c2f75cbf455bb","Denver Nuggets","Los Angeles Clippers",2025-04-19,0.56,0.44,112,110,1
+"9c3c19beca914238f77162f180beba5b","Los Angeles Lakers","Utah Jazz",2025-11-18,0.74,0.26,140,126,1
+"9e0e2a7be4f8871e4a4d2ae25ed7d6f1","Denver Nuggets","Sacramento Kings",2025-11-22,0.86,0.14,123,128,0
+"9f19850ed54df371086eac90d3e8064d","Cleveland Cavaliers","Indiana Pacers",2025-05-04,0.755,0.245,112,121,0
+"9f3293867873f1f9e28d67fe3301a0fd","Charlotte Hornets","Milwaukee Bucks",2025-11-12,0.43,0.57,111,100,1
+"9f7417ad5e20b22efc8e94fa32cc144f","Los Angeles Lakers","Minnesota Timberwolves",2025-04-30,0.54,0.46,96,103,0
+"a22635f3bf66e2b73ef464e660fa3f41","Sacramento Kings","Dallas Mavericks",2025-04-16,0.61,0.39,106,120,0
+"a3537572cc6b1309a5cabd761612a54d","Brooklyn Nets","Detroit Pistons",2025-11-07,0.27,0.73,107,125,0
+"a3c68330f0966b1febd54c6e5a7fb538","Golden State Warriors","Memphis Grizzlies",2025-10-27,0.85,0.15,131,118,1
+"a4efdcc341a83975b83143047913aebb","Sacramento Kings","Los Angeles Lakers",2025-10-26,0.49,0.51,120,127,0
+"a6422c3a56ec257e30b91638ef36a48e","Detroit Pistons","Indiana Pacers",2025-11-17,0.75,0.25,127,112,1
+"a66ea4e726536901dfbed1d594c17f48","Dallas Mavericks","Toronto Raptors",2025-10-26,0.56,0.44,139,129,1
+"a72d8efa957a31155a3d4aa1dd2a6b13","Golden State Warriors","Minnesota Timberwolves",2025-05-10,0.22,0.78,97,102,0
+"a89a548bc7214404c8d7abfe85817c80","Phoenix Suns","Utah Jazz",2025-10-31,0.59,0.41,118,96,1
+"a8db154fca88077a84df28acdd7d2f5a","Memphis Grizzlies","New Orleans Pelicans",2025-10-22,0.5,0.5,128,122,1
+"a8e5f48bdd920b6bcabd4414b6260f9e","Golden State Warriors","Houston Rockets",2025-04-28,0.72,0.28,109,106,1
+"aa4b036621875e4870ae8bdbca0dfc50","Oklahoma City Thunder","Indiana Pacers",2025-06-16,0.82,0.18,120,109,1
+"aa92da00abef11a7ee1f773cb708d710","New York Knicks","Cleveland Cavaliers",2025-10-22,0.52,0.48,119,111,1
+"ab3bf7c82f0c725d1ae7e15c953091f8","Dallas Mavericks","Portland Trail Blazers",2025-11-16,0.37,0.63,138,133,1
+"ab89cda07f21ecec76a5b461174ec380","Milwaukee Bucks","Charlotte Hornets",2025-11-14,0.76,0.24,147,134,1
+"ac0e9728d14d0db6b110a0e7eb050929","Utah Jazz","Oklahoma City Thunder",2025-11-21,0.17,0.83,112,144,0
+"aee7fe0a5478dbb097d14d02e3f563a6","Atlanta Hawks","Orlando Magic",2025-11-04,0.47,0.53,127,112,1
+"af723c8d13c83ededaa33a065f24a5be","Brooklyn Nets","Cleveland Cavaliers",2025-10-24,0.07,0.93,124,131,0
+"afc47a0aae772c23a3c9b8a75f743291","Philadelphia 76ers","Miami Heat",2025-11-23,0.41,0.59,117,127,0
+"b042c1ffa4d1465733e453db2b3beacc","Orlando Magic","Brooklyn Nets",2025-11-14,0.89,0.11,105,98,1
+"b1e7571e112833a08a46072bdf44a478","Miami Heat","New York Knicks",2025-11-17,0.53,0.47,115,113,1
+"b2f369150cdc1c8775f1be9897e53060","Dallas Mavericks","New Orleans Pelicans",2025-11-05,0.56,0.44,99,101,0
+"b3341893e40e1357ab9fcd9c362d7401","Indiana Pacers","Oklahoma City Thunder",2025-06-13,0.42,0.58,104,111,0
+"b406e64442d9cccd0d36a3ff6ba0aa86","Boston Celtics","Houston Rockets",2025-11-01,0.28,0.72,101,128,0
+"b4b0491751ea1e073d53d393d72cfc2d","Brooklyn Nets","Boston Celtics",2025-11-18,0.27,0.73,99,113,0
+"b6d5576873db12b6da0e7f6062b3e71d","Los Angeles Clippers","Denver Nuggets",2025-04-26,0.59,0.41,99,101,0
+"b6dc11956532645db427ed48107dd05b","Orlando Magic","Miami Heat",2025-10-12,0.69,0.31,120,104,1
+"b6dc11956532645db427ed48107dd05b","Orlando Magic","Miami Heat",2025-10-22,0.74,0.26,125,121,1
+"b6e017bee046a5bead934ecfb5cb64db","Detroit Pistons","Utah Jazz",2025-11-05,0.77,0.23,114,103,1
+"b78f6d6fe15954720b8ef730eb5c0e30","Charlotte Hornets","Orlando Magic",2025-10-30,0.25,0.75,107,123,0
+"b7f9aeee1ae7391cf1271b7589f779aa","Dallas Mavericks","Los Angeles Clippers",2025-11-14,0.23,0.77,127,133,0
+"ba7255619a1f97a9977062123b5bccb3","New York Knicks","Detroit Pistons",2025-04-29,0.62,0.38,103,106,0
+"baa2506d4f166945e10f4f6995fb78ae","Dallas Mavericks","Washington Wizards",2025-10-24,0.83,0.17,107,117,0
+"bbde7751a144b98ed150d7a5f7dc8f87","Oklahoma City Thunder","Houston Rockets",2025-10-21,0.68,0.32,125,124,1
+"bc264cf0d07f01c785e02a8b9e27f59b","Miami Heat","Cleveland Cavaliers",2025-11-10,0.18,0.82,140,138,1
+"bc86ba3d19479aea6af13b12f3c29f68","New Orleans Pelicans","Oklahoma City Thunder",2025-11-17,0.01,0.99,109,126,0
+"bd3c0c5aac8b6ce41690e86011740d3b","Indiana Pacers","Milwaukee Bucks",2025-04-22,0.83,0.17,123,115,1
+"bd807e6a63c25eaf7a43a16336214448","Chicago Bulls","Miami Heat",2025-04-16,0.39,0.61,90,109,0
+"bddd57220ab1df8f5a59a5d5373b3f65","Atlanta Hawks","Toronto Raptors",2025-11-07,0.61,0.39,97,109,0
+"be5bbb2072acd064ea89986770cd80a8","Brooklyn Nets","Atlanta Hawks",2025-10-29,0.26,0.74,112,117,0
+"be8fdc23284b02198349091c5ca89f27","Dallas Mavericks","Indiana Pacers",2025-10-29,0.57,0.43,107,105,1
+"bfbd3577751f23e0d9d5d859e16a8da7","Portland Trail Blazers","Los Angeles Lakers",2025-11-03,0.81,0.19,115,123,0
+"bfe6efdadc57b4bdb01fdd6f1123d564","Atlanta Hawks","Los Angeles Lakers",2025-11-08,0.5,0.5,122,102,1
+"bffc94ea34d3aceace2f4536d77c5925","Indiana Pacers","Charlotte Hornets",2025-11-19,0.46,0.54,127,118,1
+"c019c951794fe3ac022feda8e4c52310","Los Angeles Lakers","Minnesota Timberwolves",2025-04-19,0.74,0.26,95,117,0
+"c06e17e4142d0a944fb49b49e0a2de6c","Los Angeles Clippers","New Orleans Pelicans",2025-10-31,0.7,0.3,126,124,1
+"c13de17fcb4b3e9c45de21f479151ed5","Golden State Warriors","Phoenix Suns",2025-11-04,0.83,0.17,118,107,1
+"c1f70941e477df98e94d9c55421d7b71","Memphis Grizzlies","Oklahoma City Thunder",2025-04-26,0.115,0.885,115,117,0
+"c48d638dc464add981a4016759f31262","Charlotte Hornets","Utah Jazz",2025-11-02,0.53,0.47,126,103,1
+"c4de550e514303c8312d6220eb4e7b81","New York Knicks","Detroit Pistons",2025-04-19,0.72,0.28,123,112,1
+"c551e57315cc318feea2aea6a316457b","Oklahoma City Thunder","Indiana Pacers",2025-06-05,0.82,0.18,110,111,0
+"c584e30b1f28d1442b0e65d2b74440d9","Cleveland Cavaliers","Indiana Pacers",2025-05-13,0.77,0.23,105,114,0
+"c9332faaae1e65f4235ea5cacfe1cdc1","Cleveland Cavaliers","Indiana Pacers",2025-05-06,0.71,0.29,119,120,0
+"c9b1aeff36a750b0da0cd84d27f3f07e","Denver Nuggets","Los Angeles Clippers",2025-04-29,0.6,0.4,131,115,1
+"cb6833ff56f57c6976ff613b5956fc2e","Boston Celtics","Orlando Magic",2025-04-29,0.87,0.13,120,89,1
+"cce8a5bd08230e0c507ec925508889bc","Minnesota Timberwolves","Los Angeles Lakers",2025-04-25,0.62,0.38,116,104,1
+"cd62575c8246f92d081feba8f01addcf","Houston Rockets","Washington Wizards",2025-11-12,0.93,0.0700000000000001,135,112,1
+"ce8ef98fd6abf0a382429cb13cda8b69","Minnesota Timberwolves","Oklahoma City Thunder",2025-05-26,0.41,0.59,126,128,0
+"cf5a3b9aeb20f4bc8fc824f2e84ce67f","Atlanta Hawks","Toronto Raptors",2025-10-22,0.59,0.41,118,138,0
+"d0cf832f822b3a6b77e7889ab1a8110b","New Orleans Pelicans","Charlotte Hornets",2025-11-04,0.51,0.49,116,112,1
+"d1b9fe3922bd203db8c1d44358c1fb30","Milwaukee Bucks","Indiana Pacers",2025-04-27,0.59,0.41,103,129,0
+"d1fbcc713503883345fd07dbbefc0238","Denver Nuggets","Indiana Pacers",2025-11-08,0.78,0.22,117,100,1
+"d2f772aad312e45cf7aef9e46583ed2b","Minnesota Timberwolves","Denver Nuggets",2025-11-15,0.4,0.6,112,123,0
+"d31ca7c144ed365b47413870ec4c311a","Minnesota Timberwolves","Oklahoma City Thunder",2025-05-24,0.6,0.4,143,101,1
+"d379236fc25b400809e8ba44f3b7bcb5","Orlando Magic","Chicago Bulls",2025-10-25,0.75,0.25,98,110,0
+"d3aa100c8b388c2759a377cbd2f4640f","Orlando Magic","Boston Celtics",2025-04-27,0.245,0.755,98,107,0
+"d3b14178d64172619283576c5c0db34b","Miami Heat","Charlotte Hornets",2025-11-07,0.81,0.19,126,108,1
+"d4e0fbd35e825d1acf8d2fdca5b22ccd","Denver Nuggets","Miami Heat",2025-11-05,0.72,0.28,122,112,1
+"d5520c148eed47ba246ad3ecf8cdf503","Cleveland Cavaliers","Atlanta Hawks",2025-11-02,0.84,0.16,117,109,1
+"d56ad7ea90c45af73c0840a79030cbe6","Miami Heat","Portland Trail Blazers",2025-11-08,0.28,0.72,136,131,1
+"d65dc4b4f3707a93b34f070c80080cce","Milwaukee Bucks","Los Angeles Lakers",2025-11-15,0.46,0.54,95,119,0
+"d8df18d13a93eeaa5c8242289a517c4b","New York Knicks","Indiana Pacers",2025-05-21,0.52,0.48,135,138,0
+"dd4fe49dffbd03c82bc2ab06ea1caaac","Indiana Pacers","Milwaukee Bucks",2025-04-19,0.7,0.3,117,98,1
+"dda8c805aac91a7a454acbfdf2ee3ed1","Chicago Bulls","New York Knicks",2025-10-31,0.3,0.7,135,125,1
+"de0b04366a130a0ece7c2e89e616196e","Golden State Warriors","Houston Rockets",2025-05-02,0.61,0.39,107,115,0
+"df2b12f9f194f39c1118cf888d54f5bf","Boston Celtics","New York Knicks",2025-05-05,0.77,0.23,105,108,0
+"df4b9f35b66ef20724b6b3e81081ddfd","Los Angeles Lakers","Golden State Warriors",2025-10-12,0.63,0.37,126,116,1
+"df4b9f35b66ef20724b6b3e81081ddfd","Los Angeles Lakers","Golden State Warriors",2025-10-21,0.42,0.58,109,119,0
+"dfa56bede06bbf73e18d8c019c3e5626","Utah Jazz","Los Angeles Clippers",2025-10-22,0.33,0.67,129,108,1
+"e1126435bd892fdc20b81dc1a286a11d","Milwaukee Bucks","Houston Rockets",2025-11-09,0.38,0.62,115,122,0
+"e11cbb23685bc3bd5b4336ec7e390531","Phoenix Suns","Indiana Pacers",2025-11-13,0.6,0.4,133,98,1
+"e129914bd4795981a6640a32e0db5f0f","Oklahoma City Thunder","Washington Wizards",2025-10-30,0.89,0.11,127,108,1
+"e2702a54a8a4edb4d21c090b7d79902e","Oklahoma City Thunder","Denver Nuggets",2025-05-13,0.86,0.14,112,105,1
+"e2aa7ba505c1d05c36fb31ae24fc2948","Miami Heat","New York Knicks",2025-10-26,0.34,0.66,115,107,1
+"e2c462af53b3a3c606c5696830a173eb","New York Knicks","Indiana Pacers",2025-05-29,0.72,0.28,111,94,1
+"e2ca3fc2c1c2fe0fac1d9fe069fe0779","Portland Trail Blazers","Phoenix Suns",2025-11-18,0.4,0.6,110,127,0
+"e50117758f594f7e90bc05cb3efa86dd","Los Angeles Clippers","Miami Heat",2025-11-03,0.74,0.26,119,120,0
+"e54fb75396b2fb3c215897eee85b62b4","Memphis Grizzlies","Dallas Mavericks",2025-11-07,0.8,0.2,118,104,1
+"e565d1f4523d2d6e344e329b3f279863","New York Knicks","Chicago Bulls",2025-11-02,0.74,0.26,128,116,1
+"e66b88ac0b2ccfeadea1f527c8e4be19","Chicago Bulls","Sacramento Kings",2025-10-29,0.74,0.26,126,113,1
+"e8dd245278646c0b7835609c0d04c4a5","Houston Rockets","Portland Trail Blazers",2025-11-14,0.64,0.36,140,116,1
+"e9059827f4e5f8d7061aea311c337ab8","Indiana Pacers","Toronto Raptors",2025-11-15,0.44,0.56,111,129,0
+"ea4f6c0b7a0e21924abaf63cea728740","Oklahoma City Thunder","Sacramento Kings",2025-10-28,0.73,0.27,107,101,1
+"ea886ac9a60e20c549a0e74bc60aa4cc","Indiana Pacers","Atlanta Hawks",2025-10-31,0.68,0.32,108,128,0
+"eac240dfaaa6377457daa36ac01b777e","Detroit Pistons","Philadelphia 76ers",2025-11-14,0.53,0.47,114,105,1
+"ecdb0c72077ab263b31b45332b731195","Orlando Magic","Boston Celtics",2025-11-09,0.7,0.3,107,111,0
+"ed82190bf1c73a6310c46ee399696436","Phoenix Suns","New Orleans Pelicans",2025-11-10,0.81,0.19,121,98,1
+"ee79094a98d3645115a3e9c083f01a74","Philadelphia 76ers","Toronto Raptors",2025-11-19,0.4,0.6,112,121,0
+"eea6f48cf04bc26e631209e50a4a3af1","Utah Jazz","Minnesota Timberwolves",2025-11-10,0.28,0.72,113,120,0
+"f0f386295d750ba657ca31c569493eb1","Portland Trail Blazers","Golden State Warriors",2025-10-24,0.33,0.67,139,119,1
+"f19ce23e75993dd4dcc0df28615fafd1","Sacramento Kings","Denver Nuggets",2025-11-11,0.19,0.81,108,122,0
+"f2720b00d74d6e545c3dbbccee08d0f0","Philadelphia 76ers","Detroit Pistons",2025-11-09,0.3,0.7,108,111,0
+"f2e9b932ad12be3f2f47166b3eb0d456","Detroit Pistons","Washington Wizards",2025-11-10,0.73,0.27,137,135,1
+"f339c535ada11624c8dcb320f9f12987","Phoenix Suns","Los Angeles Clippers",2025-11-06,0.61,0.39,115,102,1
+"f383ac51e8102cfb59ce70f5e1a308ff","Dallas Mavericks","New Orleans Pelicans",2025-11-21,0.5,0.5,118,115,1
+"f39fff52133794a10c16ba61d2c0eeda","Memphis Grizzlies","Oklahoma City Thunder",2025-04-24,0.28,0.72,108,114,0
+"f4044c89efb759cfdc3bf2545ffcf0bc","Chicago Bulls","Washington Wizards",2025-11-22,0.83,0.17,121,120,1
+"f43516e89095a0b6edbe793745a2e6ca","Minnesota Timberwolves","Washington Wizards",2025-11-19,0.9,0.1,120,109,1
+"f5198a287da6bdb1b0e3c0947fdc4a79","Memphis Grizzlies","Detroit Pistons",2025-11-03,0.36,0.64,106,114,0
+"f55021b0ef635f12075e4b3429c45467","Washington Wizards","Charlotte Hornets",2025-10-26,0.55,0.45,113,139,0
+"f5abc2b5aedbb8014bd140afacef4311","New Orleans Pelicans","Boston Celtics",2025-10-27,0.22,0.78,90,122,0
+"f645a1acc849e1c50a8ed5f4b164fe76","Utah Jazz","Phoenix Suns",2025-10-27,0.84,0.16,138,134,1
+"f6612a85d6a6fc48e5bca4120ce124e5","Oklahoma City Thunder","Denver Nuggets",2025-05-05,0.72,0.28,119,121,0
+"f834a7893399a1848cb2572a2fbd03a8","Philadelphia 76ers","Orlando Magic",2025-10-27,0.37,0.63,136,124,1
+"f84bf7f4a229f53b5140f09f12cf7d13","Indiana Pacers","Milwaukee Bucks",2025-11-03,0.18,0.82,115,117,0
+"f8a89fe8b901db77b42bf0af6534e52d","Sacramento Kings","Atlanta Hawks",2025-11-12,0.26,0.74,100,133,0
+"fb2728391a56d2d12e9375729e1d428b","Houston Rockets","Detroit Pistons",2025-10-24,0.7,0.3,111,115,0
+"fbb23bfdbb36b9582628067a17266910","Indiana Pacers","Oklahoma City Thunder",2025-06-11,0.29,0.71,116,107,1
+"fd47ef6fcfc96cb2f8f18e7bf76a6b92","Minnesota Timberwolves","Indiana Pacers",2025-10-26,0.85,0.15,114,110,1
+"fe05d03a1aeffcd6e3caf63513080fbd","Detroit Pistons","New York Knicks",2025-05-01,0.29,0.71,113,116,0
+"ff24293a6e10588cf0464c3b15faec80","Orlando Magic","Los Angeles Clippers",2025-11-20,0.69,0.31,129,101,1
+"ffb40afc9c271f7ef381067c257da2a0","Denver Nuggets","Oklahoma City Thunder",2025-05-15,0.45,0.55,119,107,1
+"ffb9ef562c0313b3eb5c27e80822ae3f","Philadelphia 76ers","Los Angeles Clippers",2025-11-17,0.52,0.48,110,108,1
+"ffc5a7963fb53f25e210c1acc25e2fd2","New Orleans Pelicans","Denver Nuggets",2025-11-19,0.3,0.7,118,125,0
