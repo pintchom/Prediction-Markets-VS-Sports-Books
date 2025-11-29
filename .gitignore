@@ -168,8 +168,6 @@ cython_debug/
 .vscode/
 
 # Data files (common formats)
-*.csv
-!NBA_clean_odd.csv
 *.xlsx
 *.xls
 *.parquet

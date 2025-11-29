@@ -37,10 +37,12 @@ prepare_clean_frame <- function(path, league) {
   df <- read_csv(path, show_col_types = FALSE)
   df$league <- league
   df$event_ticker <- str_remove(df$kalshi_ticker, "-[A-Z0-9]+$")
-  df$game_start <- ymd_hms(df$game_start)
-  if ("game_date" %in% names(df)) df$game_date <- as_date(df$game_date)
-  if ("game_date_et" %in% names(df)) df$game_date_et <- as_date(df$game_date_et)
-  df$game_date_clean <- dplyr::coalesce(df$game_date, df$game_date_et, as_date(df$game_start))
+  df$game_start <- suppressWarnings(ymd_hms(df$game_start))
+  game_date_col <- if ("game_date" %in% names(df)) as_date(df$game_date) else as_date(NA)
+  game_date_et_col <- if ("game_date_et" %in% names(df)) as_date(df$game_date_et) else as_date(NA)
+  df$game_date <- game_date_col
+  df$game_date_et <- game_date_et_col
+  df$game_date_clean <- dplyr::coalesce(game_date_col, game_date_et_col, as_date(df$game_start))
   df$home_score <- suppressWarnings(as.numeric(df$home_score))
   df$away_score <- suppressWarnings(as.numeric(df$away_score))
   df
@@ -150,8 +152,11 @@ build_league <- function(league, clean_path, closing_path, team_map) {
   add_scoring(final)
 }
 
-nba <- build_league("NBA", "data/processed/clean/NBA_clean_odd.csv", "data/nba_closing_lines.json", nba_map)
-nfl <- build_league("NFL", "data/processed/clean/NFL_clean_odd.csv", "data/nfl_closing_lines.json", nfl_map)
+nba_input <- file.path("Odds API Data", "NBA Data", "NBA_clean_odd.csv")
+nfl_input <- file.path("Odds API Data", "NFL Data", "NFL_clean_odd.csv")
+
+nba <- build_league("NBA", nba_input, "data/nba_closing_lines.json", nba_map)
+nfl <- build_league("NFL", nfl_input, "data/nfl_closing_lines.json", nfl_map)
 combined <- bind_rows(nba, nfl)
 
 write_csv(nba, "data/processed/clean/nba_volume_odds.csv")
