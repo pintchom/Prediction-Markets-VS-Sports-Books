@@ -1,0 +1,34 @@
+Brier comparisons (Kalshi vs Sportsbook)
+======================================
+
+Paired t-tests (mean difference = Kalshi - Sportsbook)
+    scope n_games mean_brier_kalshi mean_brier_sportsbook    mean_diff
+1 overall     389         0.1999883             0.2036483 -0.003660013
+      ci_lower     ci_upper   p_value
+1 -0.008109859 0.0007898327 0.1066648
+      scope n_games mean_brier_kalshi mean_brier_sportsbook    mean_diff
+NBA.1   NBA     310         0.1978109             0.2027014 -0.004890514
+NBA.2   NFL     310         0.1978109             0.2027014 -0.004890514
+NFL.1   NBA      79         0.2085326             0.2073641  0.001168535
+NFL.2   NFL      79         0.2085326             0.2073641  0.001168535
+           ci_lower     ci_upper    p_value
+NBA.1 -0.0104594614 0.0006784336 0.08499436
+NBA.2 -0.0104594614 0.0006784336 0.08499436
+NFL.1 -0.0003406573 0.0026777275 0.12724989
+NFL.2 -0.0003406573 0.0026777275 0.12724989
+
+Interpretation: negative mean_diff => Kalshi lower (better) Brier.
+
+Regression: Kalshi Brier ~ log(volume) + league
+         term    estimate   std_error   t_value    p_value
+1 (Intercept) 0.128309757 0.067876576 1.8903393 0.05946144
+2     log_vol 0.007573022 0.007311305 1.0357963 0.30094566
+3   leagueNFL 0.005314445 0.023321273 0.2278797 0.81986041
+
+Regression: Brier edge (Kalshi - Sportsbook) ~ log(volume) + league
+         term     estimate   std_error    t_value    p_value
+1 (Intercept) -0.034308737 0.016750560 -2.0482143 0.04121503
+2     log_vol  0.003205484 0.001804282  1.7765987 0.07642183
+3   leagueNFL  0.003770285 0.005755216  0.6551075 0.51278876
+
+Interpretation: negative log_vol coefficient => higher volume linked to better (lower) Brier. For edge model, negative log_vol => Kalshi edge improves with volume; negative intercept => Kalshi better at baseline.
