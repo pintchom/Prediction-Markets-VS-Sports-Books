@@ -169,6 +169,7 @@ cython_debug/
 
 # Data files (common formats)
 *.csv
+!NBA_clean_odd.csv
 *.xlsx
 *.xls
 *.parquet
@@ -240,3 +241,4 @@ output/
 results/
 plots/
 figures/
+
