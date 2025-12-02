@@ -75,6 +75,7 @@ compute_sportsbook_probs <- function(clean_df) {
     group_by(game_id, event_ticker, league, home_team, away_team, game_start, game_date, home_score, away_score) %>%
     summarise(
       bookmakers_used = sum(!is.na(prob_home)),
+      vig_mean = safe_mean(vig),
       sportsbook_prob_home = safe_mean(prob_home),
       sportsbook_prob_away = safe_mean(prob_away),
       .groups = "drop"
